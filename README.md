@@ -55,4 +55,4 @@ A simple app to calculate and split the value of a tip.
 A multi-step form for a user + subscription registration proceses.
 
 - Uses: Vite, React, Typescript, CSS Modules and Sass.
-- Links: [Live site](https://kenyontu.github.io/frontend-mentor-multi-step-form/) | (Respository)[https://github.com/kenyontu/frontend-mentor-multi-step-form]
+- Links: [Live site](https://kenyontu.github.io/frontend-mentor-multi-step-form/) | [Respository](https://github.com/kenyontu/frontend-mentor-multi-step-form)
