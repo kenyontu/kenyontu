@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Kenyon Tu, a Frontend developer
+I am Kenyon Tu, a Frontend developer.
 
 ## My setup
 
@@ -49,3 +49,10 @@ A simple app to calculate and split the value of a tip.
 
 - Uses: React, Typescript and CSS Modules.
 - Links: [Live site](https://kenyontu.github.io/frontend-mentor-tip-calculator) | [Repository](https://github.com/kenyontu/frontend-mentor-tip-calculator) 
+
+#### Multi-step Form
+
+A multi-step form for a user + subscription registration proceses.
+
+- Uses: Vite, React, Typescript, CSS Modules and Sass.
+- Links: [Live site](https://kenyontu.github.io/frontend-mentor-multi-step-form/) | (Respository)[https://github.com/kenyontu/frontend-mentor-multi-step-form]
