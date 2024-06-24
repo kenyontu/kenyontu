@@ -29,13 +29,6 @@ Memory game for up to 4 players.
 - Uses: Vite, React, TypeScript and TailwindCSS.
 - Links: [Live site](https://kenyontu.github.io/frontend-mentor-memory-game) | [Repository](https://github.com/kenyontu/frontend-mentor-memory-game)
 
-#### Todo App
-
-Fullstack Todo App with optimistic updates.
-
-- Uses: Remix, React, TypeScript, Prisma and PostgreSQL.
-- Links: [Live site](https://remix-frontend-mentor-todo-app.netlify.app) | [Repository](https://github.com/kenyontu/remix-frontend-mentor-todo-app)
-
 #### Bookmark Land Page
 
 A responsive landing page.
